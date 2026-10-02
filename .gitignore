@@ -1,0 +1,7 @@
+# Ignore local virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore generated reports
+report.json
